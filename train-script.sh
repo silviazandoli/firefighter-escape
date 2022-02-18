@@ -1,5 +1,6 @@
 #!/bin/bash
-#questo pezzo script è stato preso dal laboratorio 5 del corso di intelligent robotic systems e serve per l'esecuzione
+#Third party code used in the course of Intelligent Robotic Systems at unibo a.y. 2021/2022
+
 helpFunction()
 {
    echo ""

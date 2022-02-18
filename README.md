@@ -1,4 +1,7 @@
 # firefighter-escape
+
+Progetto per il corso di "Intelligent Robotic Systems", Università di Bologna, anno 2020/2021
+
 ## Descrizione del progetto
 Si vuole progettare ed implementare un sistema composto da due robot autonomi ed eterogenei nell’ambito
 della ricerca e soccorso di persone in situazioni di pericolo e in ambienti sconosciuti.

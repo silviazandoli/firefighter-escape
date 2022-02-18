@@ -1,5 +1,5 @@
 #!/bin/bash
-#Third party code used in the course of Intelligent Robotic Systems at unibo a.y. 2021/2022
+#Third party code used in the course of Intelligent Robotic Systems at unibo a.y. 2020/2021
 
 helpFunction()
 {

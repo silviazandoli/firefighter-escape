@@ -14,7 +14,7 @@ Si utilizzeranno tecniche di Reinforcement Learning, in particolare il Q-learnin
 
 ## Installation
 Prerequisites to run project:
-- install Jupyter Notebook to run "Learning Analysis.ipynb"
+- install Jupyter Notebook to run "Learning Analysis.ipynb".
 - install argos3 from [ARGoS Website](https://www.argos-sim.info/index.php) to run robot controller.
 
 ## Run

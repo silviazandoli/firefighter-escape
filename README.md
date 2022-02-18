@@ -10,7 +10,7 @@ I due robot hanno comportamenti diversi. In particolare:
 Si immagina che il robot durante lo svolgimento del suo compito sia in grado di schivare le sorgenti luminose
 ed eventuali ostacoli che incontrerà.
 
-Si utilizzeranno tecniche di Reinforcement Learning, in particolare il Q-learning con la function approximation
+Si utilizzeranno tecniche di Reinforcement Learning, in particolare il Q-learning con la function approximation.
 
 ## Installation
 Prerequisites to run project:

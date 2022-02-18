@@ -5,8 +5,8 @@ della ricerca e soccorso di persone in situazioni di pericolo e in ambienti scon
 Come scenario si è scelta una casa che si immagina essere in fiamme che verrà simulata, in ARGoS, tracciando
 il perimento dell’edificio.
 I due robot hanno comportamenti diversi. In particolare:
-• robot firefighter: ha il compito di esplorare l’ambiente per trovare il robot survivor.
-• robot survivor: aspetta di essere soccorso.
+- robot firefighter: ha il compito di esplorare l’ambiente per trovare il robot survivor.
+- robot survivor: aspetta di essere soccorso.
 Si immagina che il robot durante lo svolgimento del suo compito sia in grado di schivare le sorgenti luminose
 ed eventuali ostacoli che incontrerà.
 
